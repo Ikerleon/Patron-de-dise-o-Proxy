@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="EvaluacionIker.CProxy">
+    <Position X="3.5" Y="0.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Interface Name="EvaluacionIker.CProxy.Personas">
+        <TypeIdentifier>
+          <NewMemberFileName>CProxy.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Interface>
+      <Class Name="EvaluacionIker.CProxy.ProxySeguro">
+        <TypeIdentifier>
+          <NewMemberFileName>CProxy.cs</NewMemberFileName>
+        </TypeIdentifier>
+        <Lollipop Position="0.2" />
+      </Class>
+      <Class Name="EvaluacionIker.CProxy.CNombres">
+        <TypeIdentifier>
+          <NewMemberFileName>CProxy.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CProxy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EvaluacionIker.Estudiante_Primaria">
+    <Position X="11.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Estudiante Primaria.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="EvaluacionIker.Estudiante_Secundaria">
+    <Position X="7.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAEAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>Estudiante Secundaria.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="EvaluacionIker.Estudiante_Universitario">
+    <Position X="9" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAgAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Estudiante Universitario.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="EvaluacionIker.Estudiante">
+    <Position X="10" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgQAIACAAAAAAAAAAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>Estudiante.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="EvaluacionIker.ICalcular">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ICalcular.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
